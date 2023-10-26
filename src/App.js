@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and 这是一个测试！
+          Edit <code>src/App.js</code> and 这是一个测试1111！
         </p>
         <a
           className="App-link"
